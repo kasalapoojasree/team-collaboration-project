@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eefaf0;
+    text-align: center;
+    padding: 40px;
+}
+
+form {
+    max-width: 350px;
+    margin: auto;
+}
+
+input, textarea {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 12px;
+    margin: 12px 0;
+}
+
+button {
+    padding: 10px 20px;
+    background: #218838;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
